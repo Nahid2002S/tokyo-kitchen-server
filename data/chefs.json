@@ -1,0 +1,277 @@
+[
+    {
+    "id": "01",
+    "name": "Jiro Ono",
+    "specialty": "Japanese cuisine",
+    "picture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?w=740&t=st=1682959017~exp=1682959617~hmac=5ef2bceb20c77dc6bf1c5501335d9aab0e063cd2ca01fcaeeb490fbd34b91a1e",
+    "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+    "likes": 1500,
+    "recipes": [
+    {
+    "id": "r1",
+    "name": "Sushi",
+    "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+    "ingredients": [
+    "Sushi rice",
+    "Rice vinegar",
+    "Sugar",
+    "Salt",
+    "Soy sauce"
+    ],
+    "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+    "rating": 4.5
+    },
+    {
+    "id": "r2",
+    "name": "Udon",
+    "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+    "ingredients": [
+    "Udon noodles",
+    "Dashi stock",
+    "Soy sauce",
+    "Mirin",
+    "Sugar"
+    ],
+    "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+    "rating": 4.8
+    },
+    {
+    "id": "r3",
+    "name": "Tofu",
+    "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+    "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+    "rating": 4.2
+    }
+    ]
+    },
+    
+    {
+        "id": "02",
+        "name": "Masaharu Morimoto",
+        "specialty": "Japanese cuisine",
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1682962992~exp=1682963592~hmac=a10ba37d7686c15e305ca636bebf1d9f0cdf91f83fd3651b207b8a322398cac3",
+        "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+        "likes": 1500,
+        "recipes": [
+        {
+        "id": "r1",
+        "name": "Sushi",
+        "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+        "ingredients": [
+        "Sushi rice",
+        "Rice vinegar",
+        "Sugar",
+        "Salt",
+        "Soy sauce"
+        ],
+        "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+        "rating": 4.5
+        },
+        {
+        "id": "r2",
+        "name": "Udon",
+        "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+        "ingredients": [
+        "Udon noodles",
+        "Dashi stock",
+        "Soy sauce",
+        "Mirin",
+        "Sugar"
+        ],
+        "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+        "rating": 4.8
+        },
+        {
+        "id": "r3",
+        "name": "Tofu",
+        "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+        "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+        "rating": 4.2
+        }
+        ]
+        },
+
+        {
+            "id": "03",
+            "name": "Nobu Matsuhisa",
+            "specialty": "Japanese cuisine",
+            "picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1682963087~exp=1682963687~hmac=bc2e648a39d3c1467da672fa147116232c2765a8df8fcacc44c8cd8c6576555a",
+            "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+            "likes": 1500,
+            "recipes": [
+            {
+            "id": "r1",
+            "name": "Sushi",
+            "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+            "ingredients": [
+            "Sushi rice",
+            "Rice vinegar",
+            "Sugar",
+            "Salt",
+            "Soy sauce"
+            ],
+            "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+            "rating": 4.5
+            },
+            {
+            "id": "r2",
+            "name": "Udon",
+            "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+            "ingredients": [
+            "Udon noodles",
+            "Dashi stock",
+            "Soy sauce",
+            "Mirin",
+            "Sugar"
+            ],
+            "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+            "rating": 4.8
+            },
+            {
+            "id": "r3",
+            "name": "Tofu",
+            "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+            "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+            "rating": 4.2
+            }
+            ]
+            },
+
+            {
+                "id": "04",
+                "name": "Yoshihiro Murata",
+                "specialty": "Japanese cuisine",
+                "picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10109.jpg?w=740&t=st=1682963146~exp=1682963746~hmac=a60b2b8d5bb47a5630f105a2f9195f988f38a81ab2ee8b023b56175de23998bf",
+                "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+                "likes": 1500,
+                "recipes": [
+                {
+                "id": "r1",
+                "name": "Sushi",
+                "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+                "ingredients": [
+                "Sushi rice",
+                "Rice vinegar",
+                "Sugar",
+                "Salt",
+                "Soy sauce"
+                ],
+                "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+                "rating": 4.5
+                },
+                {
+                "id": "r2",
+                "name": "Udon",
+                "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+                "ingredients": [
+                "Udon noodles",
+                "Dashi stock",
+                "Soy sauce",
+                "Mirin",
+                "Sugar"
+                ],
+                "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+                "rating": 4.8
+                },
+                {
+                "id": "r3",
+                "name": "Tofu",
+                "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+                "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+                "rating": 4.2
+                }
+                ]
+                },
+
+                {
+                    "id": "05",
+                    "name": "Hironori Ikeno",
+                    "specialty": "Japanese cuisine",
+                    "picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=740&t=st=1682963220~exp=1682963820~hmac=b20d98d708fceae4a39c693328e9835da78905e682b6183b14fdd956c52e2984",
+                    "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+                    "likes": 1500,
+                    "recipes": [
+                    {
+                    "id": "r1",
+                    "name": "Sushi",
+                    "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+                    "ingredients": [
+                    "Sushi rice",
+                    "Rice vinegar",
+                    "Sugar",
+                    "Salt",
+                    "Soy sauce"
+                    ],
+                    "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+                    "rating": 4.5
+                    },
+                    {
+                    "id": "r2",
+                    "name": "Udon",
+                    "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+                    "ingredients": [
+                    "Udon noodles",
+                    "Dashi stock",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sugar"
+                    ],
+                    "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+                    "rating": 4.8
+                    },
+                    {
+                    "id": "r3",
+                    "name": "Tofu",
+                    "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+                    "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+                    "rating": 4.2
+                    }
+                    ]
+                    },
+
+                    {
+                        "id": "06",
+                        "name": "Hironori Ikeno",
+                        "specialty": "Japanese cuisine",
+                        "picture": "https://img.freepik.com/free-photo/chef-kitchen_23-2148006182.jpg?w=740&t=st=1682963279~exp=1682963879~hmac=03e42b92b30bc8fd36ce5b89b8a5827bf3306cfaf7250e07c702f43b2998279d",
+                        "bio": "Jiro Ono is a Japanese chef who is known for her delicious and authentic Japanese cuisine. She has been cooking since a young age and has gained a loyal following for her recipes that are both traditional and innovative.",
+                        "likes": 1500,
+                        "recipes": [
+                        {
+                        "id": "r1",
+                        "name": "Sushi",
+                        "picture": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=826&t=st=1682959878~exp=1682960478~hmac=2de77882445c86955b66fe581d0ef2714641e6d8f0b84e3fc97a201195257809",
+                        "ingredients": [
+                        "Sushi rice",
+                        "Rice vinegar",
+                        "Sugar",
+                        "Salt",
+                        "Soy sauce"
+                        ],
+                        "making_details": "Cook sushi rice and season with rice vinegar, sugar, and salt.Cut sushi-grade fish or other fillings into small pieces.Roll the rice and fillings in a sheet of nori, slice into pieces, and serve with wasabi and soy sauce.",
+                        "rating": 4.5
+                        },
+                        {
+                        "id": "r2",
+                        "name": "Udon",
+                        "picture": "https://img.freepik.com/free-photo/gourmet-meal-with-chopsticks-steaming-bowl-generative-ai_188544-12686.jpg?w=826&t=st=1682960475~exp=1682961075~hmac=89c8f194f31b31233246263f9e0689777abde5813900d0d8bd96f6eab514ada6",
+                        "ingredients": [
+                        "Udon noodles",
+                        "Dashi stock",
+                        "Soy sauce",
+                        "Mirin",
+                        "Sugar"
+                        ],
+                        "making_details": "Cook udon noodles according to package instructions and drain.Combine dashi stock, soy sauce, mirin, sake, and sugar in a pot and bring to a simmer. Add the cooked udon noodles to the pot and heat through before serving with toppings of your choice",
+                        "rating": 4.8
+                        },
+                        {
+                        "id": "r3",
+                        "name": "Tofu",
+                        "picture": "https://img.freepik.com/premium-photo/kimchi-tofu-pork-stew_872147-10058.jpg?w=740",
+                        "making_details": "Coagulate soy milk by adding a coagulating agent such as nigari or gypsum. Pour the mixture into a mold and let it sit for 30-60 minutes to set. Remove the tofu from the mold, cut into desired shapes, and serve cold or hot as desired.",
+                        "rating": 4.2
+                        }
+                        ]
+                        }
+    ]
