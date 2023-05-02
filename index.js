@@ -18,7 +18,7 @@ app.get('/chefs', (req, res) => {
 
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id;
-    const selectedChefs = news.find(n => n._id === id);
+    const selectedChefs = chefs.find(chef => chef.id === id);
     res.send(selectedChefs)
 })
 
